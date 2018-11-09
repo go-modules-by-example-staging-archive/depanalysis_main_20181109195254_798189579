@@ -1,0 +1,4 @@
+github.com/myitcvscratch/depanalysis v0.0.1 h1:edO+BrHFzAgIpWiODrsgeuswXrztOYFH17ycZ4p6HeY=
+github.com/myitcvscratch/depanalysis v0.0.1/go.mod h1:LDwcezB1bP5ODNO5kzrBhPRgqLcvJ1mP2YyWmmFHrPc=
+github.com/myitcvscratch/depanalysis/distant v0.0.0-20181109194847-4f7849f9b1df h1:lLQIvE9TJAUgA+ZPb2cBS7oMTTqjsaqBxYuOQ/7TR+U=
+github.com/myitcvscratch/depanalysis/distant v0.0.0-20181109194847-4f7849f9b1df/go.mod h1:XpT7VsV/WBlTbTcYD5nAzk8HdqMivPPyI1z/LH4HhyI=
